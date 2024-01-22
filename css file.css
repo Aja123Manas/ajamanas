@@ -1,0 +1,46 @@
+form {
+    background-color: aqua;
+    margin-left: 120px;
+    margin-right: 120px;
+    padding: 100px;
+    border: 40px;
+
+}
+button {
+    height: 40px;
+     width: 80px;
+    margin-left: 80px;
+    background-color: darkgoldenrod;
+
+}
+
+legend{
+    text-align: center;
+}
+input[type=projectName],input[type=Assignedto],input[type=StartDate],input[type=EndDate],input[type=Priority],input[type=Description]
+{
+    width: 120px;
+    height: 80px;
+    border-radius: 5px;
+    margin-left: 150px;
+    background-color: blueviolet;
+
+}
+.p{
+    margin-left: 20px;
+}
+.e{
+    margin-left: 50px;
+}
+.s{
+    margin-left: 40px;
+}
+.d{
+    margin-left: 30px;
+}
+.a{
+    margin-left: 30px;
+}
+button:hover{
+    background-color: #7c3e5f;
+}

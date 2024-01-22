@@ -1,0 +1,26 @@
+.A{
+    color: aliceblue;
+}
+.B{
+    font-style: italic;
+}
+.A{
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+.B{
+    display: flex;
+    background-color: lightgrey;
+    padding: 20px;
+}
+.Paragraph1{
+margin-left: 30px;
+}
+
+
+

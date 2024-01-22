@@ -1,0 +1,52 @@
+form{
+    background-color: #7d3f4a;
+    padding-left: 100px;
+    margin-left: 50px;
+    box-shadow:10px 10px 10px 10px #7c3e5f;
+    margin-right: 100px;
+
+}
+button{
+    width: 50%;
+    height: 40px;
+    font-weight: bold;
+
+}
+label{
+    color: white;
+}
+.p{
+    margin-left: 90px;
+    height: 40px;
+}
+.e{
+    margin-left: 120px;
+    height: 40px;
+}
+.n{
+    margin-left: 120px;
+    height: 40px;
+}
+.pn{
+    margin-left: 40px;
+    height: 40px;
+}
+.zp{
+    margin-left: 80px;
+    height: 40px;
+}
+.s{
+    margin-left: 100px;
+    height: 40px;
+}
+.A{
+    margin-left: 100px;
+}
+select {
+    margin-left: 90px;
+    height: 30px;
+}
+.Gender{
+    display: flex;
+}
+input[type=radio]
